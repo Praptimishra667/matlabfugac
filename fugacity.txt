@@ -1,0 +1,1 @@
+What is the fugacity of ice at -5 degree celsius from 0.1 to 100 MPa? At -5degree celsius the sublimation pressure is 0.4kPa and its specific gravity is 0.915.Plot fugacity vs pressure and fugacity coefficient versus pressure at -5 degree celsius . The increment of pressure must be 0.01 bar.
